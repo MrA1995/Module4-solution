@@ -1,5 +1,5 @@
 var speakWord = "Hello";
 var helloSpeaker = {};
-helloSpeaker.speak = function (name) {
+hello.Speaker.speak = function (name) {
   console.log(speakWord + " " + name);
 }
